@@ -1,0 +1,8 @@
+2025/03/31-17:05:47.115 11e8 Reusing MANIFEST G:/University Simulation/UniSimulation544 5.4/Saved/webcache_4430\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/31-17:05:47.115 11e8 Recovering log #7
+2025/03/31-17:05:47.116 11e8 Reusing old log G:/University Simulation/UniSimulation544 5.4/Saved/webcache_4430\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/000007.log 
+2025/03/31-17:05:50.152 43e0 Level-0 table #11: started
+2025/03/31-17:05:50.152 43e0 Level-0 table #11: 0 bytes OK
+2025/03/31-17:05:50.154 43e0 Delete type=0 #7
+2025/03/31-17:05:50.155 43e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/31-17:05:50.155 43e0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

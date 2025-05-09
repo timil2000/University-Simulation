@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930061677025",
+    "project_id": "campus-tour-game",
+    "storage_bucket": "campus-tour-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930061677025:android:9294eed6524ccb56aca2a0",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN00Y3qnriBAbv73GpmEe4nYx37szfNGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
